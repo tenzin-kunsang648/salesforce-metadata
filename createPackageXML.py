@@ -7,12 +7,9 @@ Input: dataset (reference metadataCoverage.csv)
 Output: 
     clean dataset -> metadataCoverage_clean.csv
     xml files
-
-
 '''
 
 from xml.dom import minidom
-import os
 import pandas as pd
 from bs4 import BeautifulSoup
 import csv
@@ -23,6 +20,7 @@ import xml.etree.ElementTree as ET
 
 
 def createXML(data):
+
     '''
     creates an xml file using a csv dataset with two columns - metadata type (first column) 
     and the relevant api (second column - eg: metadata api, unlocked packaging, managed packaging etc.)
@@ -39,8 +37,10 @@ def createXML(data):
         name = ET.SubElement(types, 'name')
         name.text = row['metadataType']
 
-    mydata = '<?xml version="1.0" encoding="UTF-8"?>\n' + \
-        ET.tostring(package, encoding="unicode")
+    version = ET.SubElement(package, 'version')
+    version.text = "51.0"
+
+    mydata = '<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(package, encoding="unicode")
 
     xmlfilename = data.columns[1] + ".xml"
 

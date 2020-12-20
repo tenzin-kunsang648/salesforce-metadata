@@ -1720,4 +1720,7 @@
    WorkSkillRouting
   </name>
  </types>
+ <version>
+  51.0
+ </version>
 </Package>
