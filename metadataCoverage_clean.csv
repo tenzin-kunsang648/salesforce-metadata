@@ -1,0 +1,417 @@
+,metadataType,metadataAPI,unlockedPackaging
+0,AccessControlPolicy,Exposed in Metadata API,Requires package without a namespace. 1
+1,AccountForecastSettings,Exposed in Metadata API,Exposed in Unlocked Packaging
+2,AccountInsightsSettings,Exposed in Metadata API,
+3,AccountIntelligenceSettings,Exposed in Metadata API,
+4,AccountRelationshipShareRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+5,AccountSettings,Exposed in Metadata API,
+6,AcctMgrTargetSettings,Exposed in Metadata API,Exposed in Unlocked Packaging
+7,ActionLinkGroupTemplate,Exposed in Metadata API,Exposed in Unlocked Packaging
+8,ActionPlanTemplate,Exposed in Metadata API,Exposed in Unlocked Packaging
+9,ActionsSettings,Exposed in Metadata API,
+10,ActivitiesSettings,Exposed in Metadata API,
+11,AddressSettings,Exposed in Metadata API,
+12,AIApplication,Exposed in Metadata API,Exposed in Unlocked Packaging
+13,AIApplicationConfig,Exposed in Metadata API,Exposed in Unlocked Packaging
+14,AIAssistantTemplate,,
+15,AILiveMetricDefinition,,
+16,AIReplyRecommendationsSettings,Exposed in Metadata API,
+17,AnalysisConfiguration,,
+18,AnalyticSnapshot,Exposed in Metadata API,Exposed in Unlocked Packaging
+19,AnalyticsSettings,Exposed in Metadata API,
+20,AnimationRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+21,ApexClass,Exposed in Metadata API,Exposed in Unlocked Packaging
+22,ApexComponent,Exposed in Metadata API,Exposed in Unlocked Packaging
+23,ApexEmailNotifications,Exposed in Metadata API,Exposed in Unlocked Packaging
+24,ApexPage,Exposed in Metadata API,Exposed in Unlocked Packaging
+25,ApexSettings,Exposed in Metadata API,
+26,ApexTestSuite,Exposed in Metadata API,Requires package without a namespace. 1
+27,ApexTrigger,Exposed in Metadata API,Exposed in Unlocked Packaging
+28,AppAnalyticsSettings,Exposed in Metadata API,
+29,AppExperienceSettings,Exposed in Metadata API,
+30,AppleDomainVerification,,
+31,ApplicationRecordTypeConfig,Exposed in Metadata API,Exposed in Unlocked Packaging
+32,AppMenu,Exposed in Metadata API,
+33,AppointmentSchedulingPolicy,Exposed in Metadata API,Exposed in Unlocked Packaging
+34,ApprovalProcess,Exposed in Metadata API,Requires package without a namespace. 1
+35,ArchiveSettings,Exposed in Metadata API,
+36,AssetSettings,,
+37,AssignmentRules,Exposed in Metadata API,
+38,AssistantContextItem,Exposed in Metadata API,Exposed in Unlocked Packaging
+39,AssistantDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+40,AssistantSkillQuickAction,Exposed in Metadata API,Exposed in Unlocked Packaging
+41,AssistantSkillSobjectAction,Exposed in Metadata API,Exposed in Unlocked Packaging
+42,AssistantVersion,Exposed in Metadata API,Exposed in Unlocked Packaging
+43,Audience,Exposed in Metadata API,
+44,AuraDefinitionBundle,Exposed in Metadata API,Exposed in Unlocked Packaging
+45,AuthProvider,Exposed in Metadata API,Requires package without a namespace. 1
+46,AutomatedContactsSettings,Exposed in Metadata API,
+47,AutoResponseRules,Exposed in Metadata API,
+48,BatchCalcJobDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+49,BatchProcessJobDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+50,BenefitAction,Exposed in Metadata API,Exposed in Unlocked Packaging
+51,BlacklistedConsumer,Exposed in Metadata API,
+52,BlockchainSettings,Exposed in Metadata API,
+53,Bot,Exposed in Metadata API,Requires package without a namespace. 1
+54,BotSettings,Exposed in Metadata API,
+55,BotVersion,Exposed in Metadata API,Requires package without a namespace. 1
+56,BrandingSet,Exposed in Metadata API,Exposed in Unlocked Packaging
+57,BriefcaseDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+58,BusinessHoursSettings,Exposed in Metadata API,
+59,BusinessProcess,Exposed in Metadata API,Exposed in Unlocked Packaging
+60,BusinessProcessGroup,Exposed in Metadata API,Exposed in Unlocked Packaging
+61,CallCenter,Exposed in Metadata API,Requires package without a namespace. 1
+62,CallCoachingMediaProvider,Exposed in Metadata API,
+63,CampaignInfluenceModel,Exposed in Metadata API,Exposed in Unlocked Packaging
+64,CampaignSettings,Exposed in Metadata API,
+65,CanvasMetadata,Exposed in Metadata API,Exposed in Unlocked Packaging
+66,CareProviderSearchConfig,Exposed in Metadata API,Exposed in Unlocked Packaging
+67,CareRequestConfiguration,Exposed in Metadata API,Exposed in Unlocked Packaging
+68,CareSystemFieldMapping,Exposed in Metadata API,Exposed in Unlocked Packaging
+69,CaseClassificationSettings,Exposed in Metadata API,
+70,CaseSettings,Exposed in Metadata API,
+71,CaseSubjectParticle,Exposed in Metadata API,Exposed in Unlocked Packaging
+72,Certificate,Exposed in Metadata API,Exposed in Unlocked Packaging
+73,ChannelLayout,Exposed in Metadata API,
+74,ChannelObjectLinkingRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+75,ChatterAnswersSettings,Exposed in Metadata API,
+76,ChatterEmailsMDSettings,Exposed in Metadata API,
+77,ChatterExtension,Exposed in Metadata API,Exposed in Unlocked Packaging
+78,ChatterSettings,Exposed in Metadata API,
+79,CleanDataService,Exposed in Metadata API,Exposed in Unlocked Packaging
+80,CMSConnectSource,Exposed in Metadata API,
+81,CommandAction,Exposed in Metadata API,Exposed in Unlocked Packaging
+82,CommunitiesSettings,Exposed in Metadata API,
+83,Community,Exposed in Metadata API,
+84,CommunityTemplateDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+85,CommunityThemeDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+86,CompactLayout,Exposed in Metadata API,Exposed in Unlocked Packaging
+87,CompanySettings,Exposed in Metadata API,
+88,ConnectedApp,Exposed in Metadata API,
+89,ConnectedAppSettings,Exposed in Metadata API,
+90,ContentAsset,Exposed in Metadata API,Exposed in Unlocked Packaging
+91,ContentSettings,Exposed in Metadata API,
+92,ContractSettings,Exposed in Metadata API,
+93,ConversationalIntelligenceSettings,Exposed in Metadata API,
+94,ConversationVendorFieldDef,Exposed in Metadata API,Exposed in Unlocked Packaging
+95,ConversationVendorInfo,Exposed in Metadata API,Exposed in Unlocked Packaging
+96,CorsWhitelistOrigin,Exposed in Metadata API,Exposed in Unlocked Packaging
+97,CspTrustedSite,Exposed in Metadata API,Exposed in Unlocked Packaging
+98,CurrencySettings,Exposed in Metadata API,
+99,CustomApplication,Exposed in Metadata API,Exposed in Unlocked Packaging
+100,CustomApplicationComponent,Exposed in Metadata API,Exposed in Unlocked Packaging
+101,CustomDataType,,
+102,CustomerDataPlatformSettings,Exposed in Metadata API,
+103,CustomFeedFilter,Exposed in Metadata API,
+104,CustomField,Exposed in Metadata API,Exposed in Unlocked Packaging
+105,CustomHelpMenuSection,Exposed in Metadata API,Exposed in Unlocked Packaging
+106,CustomLabels,Exposed in Metadata API,Exposed in Unlocked Packaging
+107,CustomMetadata,Exposed in Metadata API,Exposed in Unlocked Packaging
+108,CustomNotificationType,Exposed in Metadata API,Exposed in Unlocked Packaging
+109,CustomObject,Exposed in Metadata API,Exposed in Unlocked Packaging
+110,CustomObjectTranslation,Exposed in Metadata API,Exposed in Unlocked Packaging
+111,CustomPageWebLink,Exposed in Metadata API,Exposed in Unlocked Packaging
+112,CustomPermission,Exposed in Metadata API,Exposed in Unlocked Packaging
+113,CustomSite,Exposed in Metadata API,Requires package without a namespace. 1
+114,CustomTab,Exposed in Metadata API,Exposed in Unlocked Packaging
+115,CustomValue,Exposed in Metadata API,
+116,Dashboard,Exposed in Metadata API,Exposed in Unlocked Packaging
+117,DashboardFolder,Exposed in Metadata API,Exposed in Unlocked Packaging
+118,DataCategoryGroup,Exposed in Metadata API,Exposed in Unlocked Packaging
+119,DataDotComSettings,Exposed in Metadata API,
+120,DataPipeline,,
+121,DataSourceObject,Exposed in Metadata API,Exposed in Unlocked Packaging
+122,DecisionFlow,,
+123,DecisionFlowSubFlow,,
+124,DecisionTable,Exposed in Metadata API,Exposed in Unlocked Packaging
+125,DecisionTableDatasetLink,Exposed in Metadata API,Exposed in Unlocked Packaging
+126,DelegateGroup,Exposed in Metadata API,Exposed in Unlocked Packaging
+127,DeploymentSettings,Exposed in Metadata API,
+128,DevHubSettings,Exposed in Metadata API,
+129,DiscoveryAIModel,Exposed in Metadata API,Exposed in Unlocked Packaging
+130,DiscoveryGoal,Exposed in Metadata API,Exposed in Unlocked Packaging
+131,DiscoverySettings,Exposed in Metadata API,
+132,Document,Exposed in Metadata API,Exposed in Unlocked Packaging
+133,DocumentChecklistSettings,Exposed in Metadata API,
+134,DocumentFolder,Exposed in Metadata API,Exposed in Unlocked Packaging
+135,DocumentType,Exposed in Metadata API,Exposed in Unlocked Packaging
+136,DuplicateRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+137,DynamicTrigger,Exposed in Metadata API,
+138,EACSettings,Exposed in Metadata API,
+139,EclairGeoData,Exposed in Metadata API,Exposed in Unlocked Packaging
+140,EinsteinAssistantSettings,Exposed in Metadata API,
+141,EmailAdministrationSettings,Exposed in Metadata API,
+142,EmailFolder,Exposed in Metadata API,Exposed in Unlocked Packaging
+143,EmailIntegrationSettings,Exposed in Metadata API,
+144,EmailServicesFunction,Exposed in Metadata API,Requires package without a namespace. 1
+145,EmailTemplate,Exposed in Metadata API,Exposed in Unlocked Packaging
+146,EmailTemplateFolder,Exposed in Metadata API,Exposed in Unlocked Packaging
+147,EmailTemplateSettings,Exposed in Metadata API,
+148,EmbeddedServiceBranding,Exposed in Metadata API,Requires package without a namespace. 1
+149,EmbeddedServiceConfig,Exposed in Metadata API,Requires package without a namespace. 1
+150,EmbeddedServiceFieldService,,
+151,EmbeddedServiceFlowConfig,Exposed in Metadata API,Requires package without a namespace. 1
+152,EmbeddedServiceLiveAgent,Exposed in Metadata API,
+153,EmbeddedServiceMenuSettings,,
+154,EmployeeUserSettings,Exposed in Metadata API,
+155,EncryptionKeySettings,,
+156,EnhancedNotesSettings,Exposed in Metadata API,
+157,EntitlementProcess,Exposed in Metadata API,Requires package without a namespace. 1
+158,EntitlementSettings,Exposed in Metadata API,
+159,EntitlementTemplate,Exposed in Metadata API,Exposed in Unlocked Packaging
+160,EntityImplements,Exposed in Metadata API,Exposed in Unlocked Packaging
+161,EscalationRules,Exposed in Metadata API,
+162,EssentialsSettings,Exposed in Metadata API,
+163,EssentialsTrialOrgSettings,,
+164,EventDelivery,,
+165,EventSettings,Exposed in Metadata API,
+166,EventSubscription,,
+167,ExperienceBundle,Exposed in Metadata API,Requires package without a namespace. 1
+168,ExperienceBundleSettings,Exposed in Metadata API,
+169,ExternalAIModel,Exposed in Metadata API,Exposed in Unlocked Packaging
+170,ExternalDataSource,Exposed in Metadata API,Exposed in Unlocked Packaging
+171,ExternalServiceRegistration,Exposed in Metadata API,Exposed in Unlocked Packaging
+172,ExternalServicesSettings,Exposed in Metadata API,
+173,FeatureParameterBoolean,Exposed in Metadata API,
+174,FeatureParameterDate,Exposed in Metadata API,
+175,FeatureParameterInteger,Exposed in Metadata API,
+176,FeedFieldHistory,,
+177,FieldServiceMobileExtension,Exposed in Metadata API,Exposed in Unlocked Packaging
+178,FieldServiceSettings,Exposed in Metadata API,
+179,FieldSet,Exposed in Metadata API,Exposed in Unlocked Packaging
+180,FieldSrcTrgtRelationship,Exposed in Metadata API,Exposed in Unlocked Packaging
+181,FilesConnectSettings,Exposed in Metadata API,
+182,FileUploadAndDownloadSecuritySettings,Exposed in Metadata API,
+183,FlexiPage,Exposed in Metadata API,Exposed in Unlocked Packaging
+184,Flow,Exposed in Metadata API,Exposed in Unlocked Packaging
+185,FlowCategory,Exposed in Metadata API,Exposed in Unlocked Packaging
+186,FlowDefinition,Exposed in Metadata API,
+187,FlowSettings,Exposed in Metadata API,
+188,ForecastingSettings,Exposed in Metadata API,
+189,Form,,
+190,FormSection,,
+191,FormulaSettings,Exposed in Metadata API,
+192,FunctionReference,Exposed in Metadata API,Exposed in Unlocked Packaging
+193,GatewayProviderPaymentMethodType,Exposed in Metadata API,Exposed in Unlocked Packaging
+194,GlobalPicklistValue,,
+195,GlobalValueSet,Exposed in Metadata API,Exposed in Unlocked Packaging
+196,GlobalValueSetTranslation,Exposed in Metadata API,Exposed in Unlocked Packaging
+197,GoogleAppsSettings,Exposed in Metadata API,
+198,Group,Exposed in Metadata API,Requires package without a namespace. 1
+199,HighVelocitySalesSettings,Exposed in Metadata API,
+200,HomePageComponent,Exposed in Metadata API,Exposed in Unlocked Packaging
+201,HomePageLayout,Exposed in Metadata API,Exposed in Unlocked Packaging
+202,Icon,Exposed in Metadata API,Exposed in Unlocked Packaging
+203,IdeasSettings,Exposed in Metadata API,
+204,IframeWhiteListUrlSettings,Exposed in Metadata API,
+205,InboundCertificate,Exposed in Metadata API,
+206,InboundNetworkConnection,Exposed in Metadata API,
+207,Index,Exposed in Metadata API,Exposed in Unlocked Packaging
+208,IndMfgSalesAgreementSettings,,
+209,IndustriesManufacturingSettings,Exposed in Metadata API,
+210,IndustriesSettings,Exposed in Metadata API,
+211,InstalledPackage,Exposed in Metadata API,
+212,IntegrationHubSettings,,
+213,IntegrationHubSettingsType,,
+214,InventorySettings,Exposed in Metadata API,
+215,InvocableActionSettings,Exposed in Metadata API,
+216,IoTSettings,Exposed in Metadata API,
+217,IsvHammerSettings,Exposed in Metadata API,
+218,JournalType,,
+219,KeywordList,Exposed in Metadata API,Requires package without a namespace. 1
+220,KnowledgeSettings,Exposed in Metadata API,
+221,LanguageSettings,Exposed in Metadata API,
+222,Layout,Exposed in Metadata API,Exposed in Unlocked Packaging
+223,LeadConfigSettings,Exposed in Metadata API,
+224,LeadConvertSettings,Exposed in Metadata API,Exposed in Unlocked Packaging
+225,Letterhead,Exposed in Metadata API,Exposed in Unlocked Packaging
+226,LicenseDefinition,,
+227,LightningBolt,Exposed in Metadata API,Exposed in Unlocked Packaging
+228,LightningComponentBundle,Exposed in Metadata API,Exposed in Unlocked Packaging
+229,LightningExperienceSettings,Exposed in Metadata API,
+230,LightningExperienceTheme,Exposed in Metadata API,Exposed in Unlocked Packaging
+231,LightningMessageChannel,Exposed in Metadata API,Exposed in Unlocked Packaging
+232,LightningOnboardingConfig,Exposed in Metadata API,Exposed in Unlocked Packaging
+233,ListView,Exposed in Metadata API,Exposed in Unlocked Packaging
+234,LiveAgentSettings,Exposed in Metadata API,
+235,LiveChatAgentConfig,Exposed in Metadata API,
+236,LiveChatButton,Exposed in Metadata API,
+237,LiveChatDeployment,Exposed in Metadata API,
+238,LiveChatSensitiveDataRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+239,LiveMessageSettings,Exposed in Metadata API,
+240,LoginFlow,,
+241,MacroSettings,Exposed in Metadata API,
+242,ManagedContentType,Exposed in Metadata API,Requires package without a namespace. 1
+243,ManagedTopics,Exposed in Metadata API,
+244,MapsAndLocationSettings,Exposed in Metadata API,
+245,MarketAudienceDefinition,,
+246,MarketingActionSettings,,
+247,MarketingResourceType,,
+248,MassMail,,
+249,MatchingRules,Exposed in Metadata API,Exposed in Unlocked Packaging
+250,MeetingsSettings,,
+251,MilestoneType,Exposed in Metadata API,Requires package without a namespace. 1
+252,MLDataDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+253,MlDomain,Exposed in Metadata API,Exposed in Unlocked Packaging
+254,MLPredictionDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+255,MobileApplicationDetail,Exposed in Metadata API,Exposed in Unlocked Packaging
+256,MobileSettings,Exposed in Metadata API,
+257,ModerationRule,Exposed in Metadata API,Requires package without a namespace. 1
+258,MutingPermissionSet,Exposed in Metadata API,Exposed in Unlocked Packaging
+259,MyDomainDiscoverableLogin,Exposed in Metadata API,
+260,MyDomainSettings,Exposed in Metadata API,
+261,NamedCredential,Exposed in Metadata API,Exposed in Unlocked Packaging
+262,NameSettings,Exposed in Metadata API,
+263,NavigationMenu,Exposed in Metadata API,Exposed in Unlocked Packaging
+264,Network,Exposed in Metadata API,Requires package without a namespace. 1
+265,NetworkBranding,Exposed in Metadata API,
+266,NotificationsSettings,Exposed in Metadata API,
+267,NotificationTypeConfig,Exposed in Metadata API,
+268,OauthCustomScope,Exposed in Metadata API,Exposed in Unlocked Packaging
+269,ObjectHierarchyRelationship,Exposed in Metadata API,Exposed in Unlocked Packaging
+270,ObjectLinkingSettings,Exposed in Metadata API,
+271,ObjectSourceTargetMap,Exposed in Metadata API,Exposed in Unlocked Packaging
+272,OmniChannelSettings,Exposed in Metadata API,
+273,OpportunityInsightsSettings,Exposed in Metadata API,
+274,OpportunityScoreSettings,Exposed in Metadata API,
+275,OpportunitySettings,Exposed in Metadata API,
+276,Orchestration,,
+277,OrchestrationContext,,
+278,OrderManagementSettings,Exposed in Metadata API,
+279,OrderSettings,Exposed in Metadata API,
+280,OrgPreferenceSettings,,
+281,OrgSettings,Exposed in Metadata API,
+282,OrgWideEmailAddress,,
+283,OutboundNetworkConnection,Exposed in Metadata API,
+284,Package,,
+285,PardotEinsteinSettings,Exposed in Metadata API,
+286,PardotSettings,Exposed in Metadata API,
+287,PardotTenant,,
+288,ParticipantRole,Exposed in Metadata API,Exposed in Unlocked Packaging
+289,PartyDataModelSettings,Exposed in Metadata API,
+290,PathAssistant,Exposed in Metadata API,Exposed in Unlocked Packaging
+291,PathAssistantSettings,Exposed in Metadata API,
+292,PaymentGatewayProvider,Exposed in Metadata API,Exposed in Unlocked Packaging
+293,PermissionSet,Exposed in Metadata API,Exposed in Unlocked Packaging
+294,PermissionSetGroup,Exposed in Metadata API,Requires package without a namespace. 1
+295,PersonalJourneySettings,,
+296,PersonListSettings,,
+297,PicklistSettings,Exposed in Metadata API,
+298,PicklistValue,Exposed in Metadata API,
+299,PlatformCachePartition,Exposed in Metadata API,Exposed in Unlocked Packaging
+300,PlatformEncryptionSettings,,
+301,PlatformEventChannel,Exposed in Metadata API,Exposed in Unlocked Packaging
+302,PlatformEventChannelMember,Exposed in Metadata API,Exposed in Unlocked Packaging
+303,PlatformEventSubscriberConfig,Exposed in Metadata API,Exposed in Unlocked Packaging
+304,Portal,,
+305,PortalsSettings,Exposed in Metadata API,
+306,PostTemplate,Exposed in Metadata API,
+307,PredictionBuilderSettings,Exposed in Metadata API,
+308,PresenceDeclineReason,Exposed in Metadata API,
+309,PresenceUserConfig,Exposed in Metadata API,
+310,PrivacySettings,Exposed in Metadata API,
+311,PrivateConnection,,
+312,ProductSettings,Exposed in Metadata API,
+313,Profile,Exposed in Metadata API,Exposed in Unlocked Packaging
+314,ProfilePasswordPolicy,Exposed in Metadata API,Exposed in Unlocked Packaging
+315,ProfileSessionSetting,Exposed in Metadata API,Exposed in Unlocked Packaging
+316,Prompt,Exposed in Metadata API,Exposed in Unlocked Packaging
+317,Queue,Exposed in Metadata API,Requires package without a namespace. 1
+318,QueueRoutingConfig,Exposed in Metadata API,
+319,QuickAction,Exposed in Metadata API,Exposed in Unlocked Packaging
+320,QuickTextSettings,Exposed in Metadata API,
+321,QuoteSettings,Exposed in Metadata API,
+322,RealTimeEventSettings,Exposed in Metadata API,
+323,RecommendationBuilderSettings,Exposed in Metadata API,
+324,RecommendationStrategy,Exposed in Metadata API,Exposed in Unlocked Packaging
+325,RecordActionDeployment,Exposed in Metadata API,Exposed in Unlocked Packaging
+326,RecordPageSettings,Exposed in Metadata API,
+327,RecordType,Exposed in Metadata API,Exposed in Unlocked Packaging
+328,RedirectWhitelistUrl,Exposed in Metadata API,
+329,RemoteSiteSetting,Exposed in Metadata API,Exposed in Unlocked Packaging
+330,Report,Exposed in Metadata API,Exposed in Unlocked Packaging
+331,ReportFolder,Exposed in Metadata API,Exposed in Unlocked Packaging
+332,ReportType,Exposed in Metadata API,Exposed in Unlocked Packaging
+333,RestrictionRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+334,RetailExecutionSettings,Exposed in Metadata API,
+335,Role,Exposed in Metadata API,Requires package without a namespace. 1
+336,SalesAgreementSettings,Exposed in Metadata API,Exposed in Unlocked Packaging
+337,SalesWorkQueueSettings,Exposed in Metadata API,
+338,SamlSsoConfig,Exposed in Metadata API,
+339,SchemaSettings,Exposed in Metadata API,
+340,Scontrol,,
+341,SearchSettings,Exposed in Metadata API,
+342,SecuritySettings,Exposed in Metadata API,
+343,ServiceAISetupDefinition,Exposed in Metadata API,Exposed in Unlocked Packaging
+344,ServiceAISetupField,Exposed in Metadata API,Exposed in Unlocked Packaging
+345,ServiceChannel,Exposed in Metadata API,
+346,ServiceCloudVoiceSettings,Exposed in Metadata API,
+347,ServicePresenceStatus,Exposed in Metadata API,
+348,ServiceSetupAssistantSettings,Exposed in Metadata API,
+349,SharingCriteriaRule,Exposed in Metadata API,
+350,SharingGuestRule,Exposed in Metadata API,
+351,SharingOwnerRule,Exposed in Metadata API,
+352,SharingReason,Exposed in Metadata API,Exposed in Unlocked Packaging
+353,SharingRules,Exposed in Metadata API,
+354,SharingSet,Exposed in Metadata API,Requires package without a namespace. 1
+355,SharingSettings,Exposed in Metadata API,
+356,SharingTerritoryRule,Exposed in Metadata API,
+357,SiteDotCom,Exposed in Metadata API,
+358,SiteSettings,Exposed in Metadata API,
+359,Skill,Exposed in Metadata API,
+360,SocialCustomerServiceSettings,Exposed in Metadata API,
+361,SocialProfileSettings,Exposed in Metadata API,
+362,SourceTrackingSettings,Exposed in Metadata API,
+363,StandardValue,Exposed in Metadata API,
+364,StandardValueSet,Exposed in Metadata API,
+365,StandardValueSetTranslation,Exposed in Metadata API,Exposed in Unlocked Packaging
+366,StaticResource,Exposed in Metadata API,Exposed in Unlocked Packaging
+367,SummaryLayout,,
+368,SurveySettings,Exposed in Metadata API,
+369,SynonymDictionary,Exposed in Metadata API,Exposed in Unlocked Packaging
+370,SystemNotificationSettings,Exposed in Metadata API,
+371,Territory,Exposed in Metadata API,Requires package without a namespace. 1
+372,Territory2,Exposed in Metadata API,Requires package without a namespace. 1
+373,Territory2Model,Exposed in Metadata API,Requires package without a namespace. 1
+374,Territory2Rule,Exposed in Metadata API,Requires package without a namespace. 1
+375,Territory2Settings,Exposed in Metadata API,
+376,Territory2Type,Exposed in Metadata API,Requires package without a namespace. 1
+377,TimeSheetTemplate,Exposed in Metadata API,Exposed in Unlocked Packaging
+378,TopicsForObjects,Exposed in Metadata API,Exposed in Unlocked Packaging
+379,TrailheadSettings,Exposed in Metadata API,
+380,TransactionSecurityPolicy,Exposed in Metadata API,
+381,Translations,Exposed in Metadata API,Exposed in Unlocked Packaging
+382,TrialOrgSettings,Exposed in Metadata API,
+383,UIObjectRelationConfig,Exposed in Metadata API,Exposed in Unlocked Packaging
+384,UiPlugin,Exposed in Metadata API,Exposed in Unlocked Packaging
+385,UserAuthCertificate,Exposed in Metadata API,Exposed in Unlocked Packaging
+386,UserCriteria,Exposed in Metadata API,Requires package without a namespace. 1
+387,UserEngagementSettings,Exposed in Metadata API,
+388,UserInterfaceSettings,Exposed in Metadata API,
+389,UserManagementSettings,Exposed in Metadata API,
+390,UserProvisioningConfig,Exposed in Metadata API,
+391,ValidationRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+392,VisualizationPlugin,,
+393,WaveApplication,Exposed in Metadata API,Exposed in Unlocked Packaging
+394,WaveComponent,Exposed in Metadata API,Exposed in Unlocked Packaging
+395,WaveDashboard,Exposed in Metadata API,Exposed in Unlocked Packaging
+396,WaveDataflow,Exposed in Metadata API,Exposed in Unlocked Packaging
+397,WaveDataset,Exposed in Metadata API,Exposed in Unlocked Packaging
+398,WaveLens,Exposed in Metadata API,Exposed in Unlocked Packaging
+399,WaveRecipe,Exposed in Metadata API,Exposed in Unlocked Packaging
+400,WaveTemplateBundle,Exposed in Metadata API,Exposed in Unlocked Packaging
+401,WaveXmd,Exposed in Metadata API,Exposed in Unlocked Packaging
+402,WebLink,Exposed in Metadata API,Exposed in Unlocked Packaging
+403,WebStoreTemplate,Exposed in Metadata API,Exposed in Unlocked Packaging
+404,WebToXSettings,Exposed in Metadata API,
+405,WorkDotComSettings,Exposed in Metadata API,
+406,Workflow,Exposed in Metadata API,Exposed in Unlocked Packaging
+407,WorkflowAlert,Exposed in Metadata API,Exposed in Unlocked Packaging
+408,WorkflowFieldUpdate,Exposed in Metadata API,Exposed in Unlocked Packaging
+409,WorkflowFlowAction,Exposed in Metadata API,
+410,WorkflowKnowledgePublish,Exposed in Metadata API,Exposed in Unlocked Packaging
+411,WorkflowOutboundMessage,Exposed in Metadata API,Exposed in Unlocked Packaging
+412,WorkflowRule,Exposed in Metadata API,Exposed in Unlocked Packaging
+413,WorkflowSend,Exposed in Metadata API,Exposed in Unlocked Packaging
+414,WorkflowTask,Exposed in Metadata API,Exposed in Unlocked Packaging
+415,WorkSkillRouting,Exposed in Metadata API,
