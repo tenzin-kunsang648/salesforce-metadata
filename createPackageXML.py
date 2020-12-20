@@ -1,4 +1,6 @@
 '''
+Author : Tenzin Kunsang
+
 Creates package xml file of Salesforce's metadata coverage
 
 Usage: python3 createPackageXML.py
