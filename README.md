@@ -3,22 +3,21 @@ creates xml files using dataset of the newest version of Salesforce's metadata c
 
 https://developer.salesforce.com/docs/metadata-coverage/51
 
-Usage:
+*Usage:
 
     python3 createPackageXML.py
     
 OR run createPackageXML.ipynb
 
-Input: dataset (reference metadataCoverage.csv)
+*Input: dataset (reference metadataCoverage.csv)
 
-Output: 
+*Output: 
 
-clean dataset -> metadataCoverage_clean.csv
+1. clean dataset -> metadataCoverage_clean.csv
+2. xml files
 
-xml files
 
-
-Challenge: 
+*Challenge: 
 
 Final xml file includes colon in the Package tag 
 
