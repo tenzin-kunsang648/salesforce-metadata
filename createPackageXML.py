@@ -1,6 +1,14 @@
 '''
 Creates package xml file of Salesforce's metadata coverage
-Usage: 
+
+Usage: python3 createPackageXML.py
+
+Input: dataset (reference metadataCoverage.csv)
+Output: 
+    clean dataset -> metadataCoverage_clean.csv
+    xml files
+
+
 '''
 
 from xml.dom import minidom
@@ -18,6 +26,8 @@ def createXML(data):
     '''
     creates an xml file using a csv dataset with two columns - metadata type (first column) 
     and the relevant api (second column - eg: metadata api, unlocked packaging, managed packaging etc.)
+    
+    might need to alter this based on your dataset
     '''
 
     package = ET.Element('Package')
@@ -39,6 +49,10 @@ def createXML(data):
 
 
 def dataCleanup(data):
+
+    '''
+    cleans up the dataset. might need to alter this method based on your requirement.
+    '''
 
     df = data
     # drop the irrelevant columns - only need metadata type, metadata API, and unlocked packaging columns
