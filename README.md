@@ -6,3 +6,12 @@ https://developer.salesforce.com/docs/metadata-coverage/51
 Usage:
 
     python3 createPackageXML.py
+    
+OR run createPackageXML.ipynb
+
+Input: dataset (reference metadataCoverage.csv)
+
+Output: 
+clean dataset -> metadataCoverage_clean.csv
+xml files
+
